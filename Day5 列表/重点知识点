@@ -1,0 +1,54 @@
+一、列表的常见操作
+    列表：可变序列,顺序排列的元素组成,元素类型可为任意类型,
+          元素都放在一对'[]'括号中,元素间以','符号分隔。
+    (a).创建列表,可以直接赋值创建、也可以创建空列表,可以通过list()函数转换成列表,如下：
+            num=[7,23,43,22,33,2]
+            lis=[]
+            print(list(range(10,2,11)))
+    (b).删除列表,通过del关键字。(不常用,python自带垃圾回收机制)
+    (c).访问列表,通过索引进行访问列表中的元素。
+    (d).遍历列表元素
+        1.通过for循环语句实现遍历。
+        2.通过for循环和enumerate()函数实现。
+            enumerate()：实现同时输出索引值和元素内容。
+            num=[7,23,43,22,33,2]
+            for index,item in enumerate(num):
+                print(index+1,item)
+    (e).增删改列表元素
+        1.在添加元素使用'+'符号将序列连接效率低,推荐使用append()函数效率高。
+            append()：向列表的末尾添加一个元素。
+            extend(seq)：将列表中的全部元素添加到另一个列表中。
+        2.修改元素,通过索引获取列表元素再将需要修改的元素进行赋值。
+            num=[7,23,43,22,33,2]
+            num[2]="爱"
+            print(num)
+        3.删除元素,推荐使用remove()函数删除列表中的元素,也可以使用del语句根据索引删除。
+二、操作列表的常见内置函数
+    count()：获取指定元素在列表中的出现次数。
+    index()：获取指定元素首次出现的下标位置。
+      sum()：统计数值列表中各个元素的和。
+     sort(key=None,reverse=False)：对原列表中的元素进行排序。
+            key：指定每个元素中提取一个用于比较的键(例:key=str.lower 表示不区别大小写)
+        reverse：可选参数。若值指定为True则降序排列;若值指定为Flase则升序排序。(默认升序排序)
+     sorted(iter,key=None,reverse=False)：列表排序后,原列表中的元素顺序不变。
+               iter：进行排序的列表名称。
+                key：指定每个元素中提取一个用于比较的键(例:key=str.lower 表示不区别大小写)
+            reverse：可选参数。若值指定为True则降序排列;若值指定为Flase则升序排序。(默认升序排序)
+三、列表推导式
+    列表推导式：可以快速生成一个列表,或根据某个列表生成满足指定需求的列表。
+            语法如下：list=[exp for var in range]
+            案例如下：randoms=[random.randint(10,100) for i in range(10)]
+四、二维列表的生成
+    二维列表：以列表为元素类型组成的列表。
+    (a).使用嵌套for循环创建
+        arr=[]
+        for i in range(4):
+            arr.append([])
+                for j in range(5):
+                    arr[i].append(j)
+    (b).适用列表推导式创建
+        arr=[[j for j in range(5)]for i in range(4)]
+
+
+
+
