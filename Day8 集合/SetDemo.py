@@ -1,0 +1,7 @@
+python = set(['绮梦', '冷伊一', '香凝', '梓轩'])
+c = set(['冷伊一', '零语', '梓轩', '圣博'])
+print('python班级学生：', python)
+print('c班级学生：', c)
+print('交集运算：', python & c)
+print('并集运算：', python | c)
+print('差集运算：', python - c)

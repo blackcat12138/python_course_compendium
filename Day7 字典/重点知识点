@@ -1,0 +1,33 @@
+一、字典的创建和删除、访问、遍历操作
+    字典：无序的可变序列,以键-值对形式存放,键必须唯一和不可变,字典形式：{'k':'v'...'kn':'vn'}
+    (a).字典创建方式
+        1.通过映射函数创建字典
+            dictionary=dict(zip(list1,list2))
+        2.通过给定的关键字创建字典
+            lpls=dict(uiz='13',mlxg='14',sofm='12',xiye='14')
+            print(lpls)
+        3.可以创建空的字典
+            dictionary = {}
+            dictionary = dict()
+            dictionary = dict.fromkeys(list1)
+    (b).删除字典方式
+        1.del语句删除字典：del dictionary
+        2.使用内置函数删除字典
+            clear()：将清空字典中的元素,字典成为空字典：dictionary.clear()
+              pop()：删除指定字典中键对应的值,若不指定将报错。
+          popitem()：删除字典中的最后一对键值对,若字典为空则报错。
+    (c).访问字典方式
+        1.通过字典中的键获取对应的值,若键不存在则报错。
+        2.get()函数获取指定键的值。
+    (d).遍历字典
+        通过items()函数获取字典中的键值对。利用for循环实现遍历
+        lpl={'uzi':'13','mlxg':'14','sofm':'12','xiye':'14'}
+           print([item for item in lpl.items()])
+           print([key+'--'+value for key,value in lck.items()])
+二、字典推导式
+    字典的推导式与列表推导式类型,字典采用'{}'括号表示。
+    1.案例一：print({x:random.randint(10,100) for x in range(1,5)})
+    2.案例二:
+            name = ['绮梦', '冷伊一', '香凝', '黛兰']
+            sign = ['水瓶', '射手', '双鱼', '双子']
+            print({j: k + '座' for j, k in zip(name, sign)})
