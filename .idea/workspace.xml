@@ -20,10 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3aae8be-41e6-4dd7-b6a8-9508759a2e33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day11 模块与异常、文件处理/重点知识点" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常处理/重点知识点" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12 面向对象编程/RoadAndCard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/RoadAndCard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12 面向对象编程/重点知识点" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/重点知识点" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day4 序列/CostInformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10 函数/CostInformation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day4 序列/FirxCarID.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10 函数/FirxCarID.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5 列表/ChessDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 字符串/ChessDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day6 元组/FunctionDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10 函数/FunctionDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day6 元组/FunctionDemo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10 函数/FunctionDemo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day6 元组/LeadDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10 函数/LeadDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day7 字典/CreditDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/CreditDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day7 字典/PhoneDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/PhoneDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day7 字典/SaleDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/SaleDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day7 字典/TicketingOfficeDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/TicketingOfficeDemo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +54,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\05_job src\python_course_compendium\Day10 函数" />
+      <recent name="E:\05_job src\python_course_compendium\Day12 面向对象编程" />
+      <recent name="E:\05_job src\python_course_compendium\Day9 字符串" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.继承01">
     <configuration name="继承01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -83,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6 元组/FunctionDemo.py" />
+      <option name="SCRIPT_NAME" value="E:\05_job src\python_course_compendium\Day10 函数\FunctionDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
