@@ -1,0 +1,60 @@
+一、模块的创建与导入
+    1.模块的创建,可以将模块中相关的代码(变量定义和函数定义等)写在一个单独的文件中,
+        并将该文件名为'模块名+.py'
+    2.模块的导入
+        (a).当创建的模块,哪里需要使用,可以直接导入,语法格式:
+            import 模块名称 [as 模块别名]
+        (b).若导入模块中具体的访问变量、函数和类名等,可以定义多个,之间通过','符号分隔;
+            若想定义全部可以使用'*'符号。语法格式:
+                from 模块名称 import member
+        (c).也可以导入python自带的模块,被称为标准模块。
+    3.第三方模块的下载与安装
+        (a).第三方模块下载需要到dos窗口中执行pip命令,语法格式：pip install [第三方模块名称]
+        (b).下载安装完成后,需要将模块加入到pycharm中使用,如下操作:
+                File-->settings-->project:pythonDemo-->python Interpreter
+二、异常处理与调试
+    1.在程序中会出现很多的异常,python提供了捕获处理异常的方法。
+          (a).try...except语句
+                    try：
+                        block1
+                    except [ExceptionName [as alias]]：
+                        block2
+          (b).try...except...else语句
+          (c).try...except...finally语句
+    2.除了捕获处理异常,还可以通过raise语句抛出异常。
+      在当前函数或方法中不想进行处理就可以使用,语法如下：raise [ExceptionName[(reason)]]
+    3.异常调试,有dbug代码调试和通过断言(assert)语句进行调试。
+四、文件处理操作
+    1.文件创建和打开操作
+            open(filename,[mode],[encoding])：创建或打开指定文件并创建文件对象。
+            file.close()：打开文件后,需及时关闭。
+       在打开文件时使用with语句,这样可以实现在处理文件时,无论是否抛出异常,
+       都能保证with语句执行完毕后关闭已经打开的文件。语法格式如下：
+            with 表达式 as 变量名:
+                语句体
+    2.文件写入和读取操作
+            file.write(string)：向文件中写入数据前提是需要打开文件,指定模式w(可写)或a(追加)。
+            file.writelines()：实现把字符串列表写入文件,但是不添加换行符。
+            file.read([size])：读取文件中指定个数的字符。
+            file.readline()：逐行读取文件内容,每次读取一行数据。
+            file.readlines()：读取文件中全部行。
+            file.seek(offset,[whence])：读取文件中部分内容,
+                                    可以将文件的指针移动到新的位置,再应用read(size)方法读取。
+    3.高级文件操作
+        os.remove(path)：删除指定路径下的文件。
+        os.rename(src,dst)：对文件或目录进行重命名。
+        os.stat(path)：获取指定路径下文件的基本信息。
+五、目录处理操作
+    1.os模块和其子模块os.path,是用于对目录或文件进行操作。
+            os.name：用于获取操作系统类型。
+            os.lineseq：用于获取当前操作系统上的换行符。
+            os.sep：用于获取当前操作系统所使用的路径分隔符。
+    2.操作目录的函数
+            os.getcwd()：返回当前的工作目录。
+            os.mkdir(path[,mode])：创建目录。
+            os.rmdir(path)：删除目录。
+            os.walk(top[, topdown][, onerror][, followlinks])：实现遍历目录的功能。
+            os.path.abspath(path)：用于获取文件或目录的绝对路径。
+            os.path.join(path,name)：将目录与目录或者文件名拼接起来。
+            os.path.dirname(path)：从一个路径中提取文件路径,不包括文件名。
+            os.path.exists(path)：判断给定的目录是否存在。
