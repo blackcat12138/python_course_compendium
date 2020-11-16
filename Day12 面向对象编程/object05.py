@@ -68,4 +68,3 @@ print(__name__)
 print(s1._Student__age)
 
 print(s1.__dir__())
-

@@ -14,3 +14,5 @@ user.publish_article(art)
 lists = [2, 3, 45, 6, 2]
 res = add(*lists)
 print(res)
+
+MAX=1000

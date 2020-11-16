@@ -31,26 +31,26 @@
 
 class Dog:
     __age = 18
-    type='狗'
+    type = '狗'
 
     # 通过__init__初始化的特征
-    def __init__(self, nickname,age,color):
+    def __init__(self, nickname, age, color):
         self.nickname = nickname
-        self.age=age
-        self.color=color
+        self.age = age
+        self.color = color
 
     def run(self):  # self 对象
         print('{}在院子里跑来跑去！'.format(self.nickname))
 
-    def eat(self,food):
-        print('{}喜欢吃饭｛｝。。。。。。。。'.format(self.nickname,food))
+    def eat(self, food):
+        print('{}喜欢吃饭｛｝。。。。。。。。'.format(self.nickname, food))
         self.run()  # 类中方法的调用，需要通过self.方法名()
 
-    def catch_mouse(self,color,weight):
-        print('{},抓一只{}kg的,{}的大老鼠'.format(self.nickname,weight,color))
+    def catch_mouse(self, color, weight):
+        print('{},抓一只{}kg的,{}的大老鼠'.format(self.nickname, weight, color))
 
-    def sleep(self,hour):
-        if hour<5:
+    def sleep(self, hour):
+        if hour < 5:
             print('继续睡觉吧')
         else:
             print('起床抓老鼠')
@@ -58,7 +58,7 @@ class Dog:
     def show(self):
         # print('------------>', Dog.age)
         print('狗的详细信息：')
-        print(self.nickname,self.age,self.color)
+        print(self.nickname, self.age, self.color)
 
     @classmethod
     def test(cls):  # cls class
@@ -66,16 +66,17 @@ class Dog:
         # print(cls.nickname)
         # self.run()
         print('---------->类方法')
-        cls.__age=20
+        cls.__age = 20
 
     @classmethod
     def show_age(cls):
-        print('修改后的年龄是：',cls.__age)
+        print('修改后的年龄是：', cls.__age)
 
     @staticmethod
     def update_age():
         print('------->静态方法')
         print(Dog.__age)
+
 
 # d=Dog('旺财')
 #
@@ -89,9 +90,9 @@ Dog.update_age()
 
 print('---------------------------')
 # 创建对象
-dog1=Dog('uzi',2,'黄色')
+dog1 = Dog('uzi', 2, '黄色')
 # 通过对象调用方法
-dog1.catch_mouse('黑色',3)
+dog1.catch_mouse('黑色', 3)
 
 dog1.eat('骨头')
 

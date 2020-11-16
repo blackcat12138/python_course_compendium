@@ -9,8 +9,8 @@ class Peason:
 
     def feed_pet(self, pat):
         # isinstance(obj,类)：判断obj是否是类的对象或判断obj是否是该类子类的对象
-        if isinstance(pat,Pat):
-            print('{}喜欢养宠物:{},昵称是：'.format(self.name,pat.role,pat.nname))
+        if isinstance(pat, Pat):
+            print('{}喜欢养宠物:{},昵称是：'.format(self.name, pat.role, pat.nname))
         else:
             print('不是宠物类型的，不能养。。。。。。')
 
@@ -39,22 +39,23 @@ class Dog(Pat):
     def wathc_house(self):
         print('看家。。。。。。')
 
+
 class Tiger:
     def eat(self):
         print('可以吃人。。。。。。')
 
+
 # 创建对象
-cat=Cat('feifei',2)
+cat = Cat('feifei', 2)
 
-dog=Dog('旺财',33)
+dog = Dog('旺财', 33)
 
-tiger=Tiger()
+tiger = Tiger()
 
-ps=Peason('wang')
+ps = Peason('wang')
 
 ps.feed_pet(cat)
 
 print('=========================')
-person=Peason('jiajia')
+person = Peason('jiajia')
 person.feed_pet(tiger)
-

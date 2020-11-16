@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3aae8be-41e6-4dd7-b6a8-9508759a2e33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/python_course_compendium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_course_compendium.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12 面向对象编程/继承01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/Extends_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/user/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块与异常、文件处理/user/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/user/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块与异常、文件处理/user/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12 面向对象编程/Polymor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/Polymor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12 面向对象编程/TicketingOfficeDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/TicketingOfficeDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12 面向对象编程/object02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/object02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12 面向对象编程/object04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/object04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12 面向对象编程/object05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/object05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12 面向对象编程/object06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12 面向对象编程/object06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day9 字符串/ChessDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 字符串/ChessDemo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +71,8 @@
       <recent name="E:\05_job src\python_course_compendium\Day9 字符串" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="Module_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sqlite_01">
+    <configuration name="模块搜索路径" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,8 +84,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块与异常、文件处理/Module_01.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块与异常、文件处理/模块搜索路径.py" />
+      <option name="PARAMETERS" value="100 adb ccd" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -86,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="循环导入_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,28 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块与异常、文件处理/calculate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_course_compendium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11 模块与异常、文件处理/user" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块与异常、文件处理/user/models.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块与异常、文件处理/循环导入_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,6 +127,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块与异常、文件处理/package.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="package_init" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_course_compendium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11 模块与异常、文件处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块与异常、文件处理/package_init.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlite_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_course_compendium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day13 操作数据库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day13 操作数据库/sqlite_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,19 +199,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Module_01" />
-      <item itemvalue="Python.calculate" />
-      <item itemvalue="Python.models" />
+      <item itemvalue="Python.模块搜索路径" />
       <item itemvalue="Python.package" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.package_init" />
+      <item itemvalue="Python.循环导入_01" />
+      <item itemvalue="Python.sqlite_01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sqlite_01" />
+        <item itemvalue="Python.循环导入_01" />
+        <item itemvalue="Python.package_init" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.package" />
-        <item itemvalue="Python.models" />
-        <item itemvalue="Python.calculate" />
-        <item itemvalue="Python.Module_01" />
       </list>
     </recent_temporary>
   </component>
@@ -215,30 +244,30 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="790" y="132" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1605167372977" />
-    <state x="175" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605009632416">
+    <state x="175" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605495448236">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="175" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605009632416" />
-    <state x="1008" y="264" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604997381029">
+    <state x="175" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605495448236" />
+    <state x="1008" y="264" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605497673407">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="1008" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1604997381029" />
-    <state width="1456" height="308" key="GridCell.Tab.0.bottom" timestamp="1605269190413">
+    <state x="1008" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1605497673407" />
+    <state width="1456" height="314" key="GridCell.Tab.0.bottom" timestamp="1605498458372">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="308" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605269190413" />
-    <state width="1456" height="308" key="GridCell.Tab.0.center" timestamp="1605269190413">
+    <state width="1456" height="314" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605498458372" />
+    <state width="1456" height="314" key="GridCell.Tab.0.center" timestamp="1605498458372">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="308" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605269190413" />
-    <state width="1456" height="308" key="GridCell.Tab.0.left" timestamp="1605269190413">
+    <state width="1456" height="314" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605498458372" />
+    <state width="1456" height="314" key="GridCell.Tab.0.left" timestamp="1605498458372">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="308" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605269190413" />
-    <state width="1456" height="308" key="GridCell.Tab.0.right" timestamp="1605269190413">
+    <state width="1456" height="314" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605498458372" />
+    <state width="1456" height="314" key="GridCell.Tab.0.right" timestamp="1605498458372">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="308" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605269190413" />
+    <state width="1456" height="314" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605498458372" />
     <state width="1456" height="269" key="GridCell.Tab.1.bottom" timestamp="1604743991120">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -255,13 +284,17 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1456" height="269" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1604743991120" />
+    <state x="716" y="451" key="Registry" timestamp="1605491345028">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="716" y="451" key="Registry/0.0.1536.864@0.0.1536.864" timestamp="1605491345028" />
     <state x="396" y="94" width="996" height="709" key="SettingsEditor" timestamp="1605267477973">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="396" y="94" width="996" height="709" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605267477973" />
-    <state x="864" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1605095547310">
+    <state x="864" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1605490401018">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="864" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605095547310" />
+    <state x="864" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605490401018" />
   </component>
 </project>
