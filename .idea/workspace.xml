@@ -23,27 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3aae8be-41e6-4dd7-b6a8-9508759a2e33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/python_course_compendium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_course_compendium.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/Module_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/Module_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/articate/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/articate/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/articate/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/articate/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/calculate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/calculate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/package.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/package.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/package_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/package_init.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/user/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/user/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/user/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/user/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/user/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/循环导入_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/循环导入_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/循环导入_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/循环导入_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/模块搜索路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/sys_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11 模块与异常、文件处理/重点知识点" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/重点知识点" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day9 字符串/ChessDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 字符串与正则/ChessDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day9 字符串/StringCompareDome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 字符串与正则/StringCompareDome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day9 字符串/StringDome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 字符串与正则/StringDome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day9 字符串/StringDome01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 字符串与正则/StringDome01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day9 字符串/StringDome02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 字符串与正则/StringDome02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day9 字符串/重点知识点" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 字符串与正则/重点知识点" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day11 模块/hashlib_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11 模块/hashlib_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -85,28 +66,7 @@
       <recent name="E:\05_job src\python_course_compendium\Day9 字符串" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.random_module">
-    <configuration name="循环导入_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_course_compendium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11 模块与异常、文件处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块与异常、文件处理/循环导入_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.regex_02">
     <configuration name="datetime_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +80,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块/datetime_module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hashlib_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_course_compendium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11 模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块/hashlib_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sqlite_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regex_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +138,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day13 操作数据库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day9 字符串与正则" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day13 操作数据库/sqlite_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day9 字符串与正则/regex_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regex_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_course_compendium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day9 字符串与正则" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day9 字符串与正则/regex_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,42 +193,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_course_compendium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11 模块" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块/time_module.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.sys_module" />
-      <item itemvalue="Python.循环导入_01" />
-      <item itemvalue="Python.sqlite_01" />
-      <item itemvalue="Python.time_module" />
       <item itemvalue="Python.datetime_module" />
       <item itemvalue="Python.random_module" />
+      <item itemvalue="Python.hashlib_module" />
+      <item itemvalue="Python.regex_01" />
+      <item itemvalue="Python.regex_02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.regex_02" />
+        <item itemvalue="Python.regex_01" />
+        <item itemvalue="Python.hashlib_module" />
         <item itemvalue="Python.random_module" />
         <item itemvalue="Python.datetime_module" />
-        <item itemvalue="Python.time_module" />
-        <item itemvalue="Python.sqlite_01" />
-        <item itemvalue="Python.循环导入_01" />
       </list>
     </recent_temporary>
   </component>
@@ -266,22 +247,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="1008" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1605497673407" />
-    <state width="1456" height="314" key="GridCell.Tab.0.bottom" timestamp="1605528679383">
+    <state width="1456" height="303" key="GridCell.Tab.0.bottom" timestamp="1605603863531">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="314" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605528679383" />
-    <state width="1456" height="314" key="GridCell.Tab.0.center" timestamp="1605528679383">
+    <state width="1456" height="303" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605603863531" />
+    <state width="1456" height="303" key="GridCell.Tab.0.center" timestamp="1605603863531">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="314" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605528679383" />
-    <state width="1456" height="314" key="GridCell.Tab.0.left" timestamp="1605528679383">
+    <state width="1456" height="303" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605603863531" />
+    <state width="1456" height="303" key="GridCell.Tab.0.left" timestamp="1605603863531">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="314" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605528679383" />
-    <state width="1456" height="314" key="GridCell.Tab.0.right" timestamp="1605528679383">
+    <state width="1456" height="303" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605603863531" />
+    <state width="1456" height="303" key="GridCell.Tab.0.right" timestamp="1605603863531">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="314" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605528679383" />
+    <state width="1456" height="303" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605603863531" />
     <state width="1456" height="269" key="GridCell.Tab.1.bottom" timestamp="1604743991120">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -302,13 +283,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="716" y="451" key="Registry/0.0.1536.864@0.0.1536.864" timestamp="1605491345028" />
-    <state x="396" y="94" width="996" height="709" key="SettingsEditor" timestamp="1605267477973">
+    <state x="540" y="127" width="996" height="709" key="SettingsEditor" timestamp="1605577657607">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="396" y="94" width="996" height="709" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605267477973" />
-    <state x="865" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1605525217077">
+    <state x="540" y="127" width="996" height="709" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605577657607" />
+    <state x="864" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1605581511428">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="865" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605525217077" />
+    <state x="864" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605581511428" />
   </component>
 </project>
