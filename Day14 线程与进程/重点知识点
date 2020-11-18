@@ -1,0 +1,75 @@
+一、进程的相关概述
+   1.进程概述
+        进程：是计算机中已运行程序的实体,是程序(指令和数据)的真正运行的实例,
+             进程不仅包括应用程序还包括系统进程。
+        并行：多个CPU同时执行多个任务。
+        并发：一个CPU交替处理多个任务。
+   2.进程创建
+        (a).multiprocessing模块创建进程
+            在multiporcessing模块中提供了创建进程对象的Process类
+            Process(target,name,args,kwargs)
+                参数说明：
+                    target：当前进程启动时执行的可调用对象
+                    name：当前进程实例的别名
+                    args：传递给target函数的参数元组。
+                    kwargs：传递给target函数的参数字典。
+        (b).使用Process子类创建进程Pool类的线程池
+        (c).使用进程池Pool创建进程
+            在multiporcessing模块中提供了
+   3.process类中常用方法
+        start()：启动子进程
+        is_alive()：判断进程实例是否还在执行。
+        join(timeout)：是否等待进程实例执行结束,或等待多少秒。
+        run()：若没有给定target参数,对这个对象调用start()方法时,就执行对象中的run()
+        terminate()：无论任务是否完成,立即终止.
+   4.pool类中常用方法
+        apply_async(func,args,kwds)：使用非阻塞方式调用
+                     func：调用的函数名(并行执行,堵塞方式必须等待上一个进程退出才能执行下一个进程),
+                      args:传递给func()函数的参数列表
+                      kwds:传递给func()函数的关键字参数列表
+        apply(func,args,kwds)：阻塞式调用func函数
+        close()：关闭Pool,使其不在接受新的任务。
+        terminate()：无论任务是否完成,立即终止。
+        join()：主进程阻塞,等待子进程的退出,必须在close()或terminate()后
+
+二、进程间的通信
+    1.队列创建
+        进程与进程间通过Queue(队列)进行通信,相当于在进程间建立了桥梁来进行数据交互。
+        在multiprocessing模块中提供了Queue类实现进程通信
+        初始化Queue()对象,创建队列：q=Queue(num)
+            num:表示可接收的消息数量
+    2.队列中常用方法
+        Queue.qsize()：返回当前队列包含的消息数量.
+        Queue.empty()：若队列为空,返回True,反之返回False
+        Queue.full()：若队列慢,返回True,反之返回False。
+        Queue.get(block,timeout)：获取队列中的一条消息,然后将其从列表中移除,block默认值为True.
+                若block使用默认值,且没有设置timeout,队列为空,程序将被阻塞直到从队列中读到消息为止。
+                若设置timeout,则会等待timeout秒,若还没读取到任何消息,则抛出'Queue.Empty'异常
+                若block值为False,队列为空,立刻抛出'Queue.Empty'异常
+        Queue.get_nowait()：相当Queue.get(False).
+        Queue.put(item,block,timeout)：将item消息写入队列，block默认值为True.
+
+三、线程概述
+        线程：是操作系统能够进行运算调度的最小单位,是依赖于进程而存在的,是进程的执行者。
+    1.线程的创建
+        (a).使用threading模块创建线程
+            在threading模块中提供了创建线程对象的Thread类
+            Threading(target,name,args,kwargs)
+        (b).使用Thread子类创建线程
+
+四、线程间的通信
+      进程间是不能够共享数据的,而线程是可以共享数据的,这样就造成了数据不安全,
+      为了避免出现数据不安全情况就提供了线程锁
+      1.互斥锁
+        互斥锁：防止多个线程同时读写某块内存区域,它会引入一个状态,锁定和非锁定。
+                某个线程要更改共享数据时,先将其锁定,其他线程无法更新,
+                直到改线程释放资源,其他线程才能再次锁定该资源
+          作用:保证每次有一个线程进行写入操作,从而保证多线程情况下数据的正确性。
+      2.互斥锁的使用
+        threading模块中的Lock类来处理锁定
+            lt=threading.Lock()     # 创建锁
+            lt.acquire(blocking)    # 锁定
+            lt.release()            # 释放锁
+      3.队列在线程间通信
+        queue模块中提供Queue类来实现线程间的通信,通常运用在生产者和消费者模式中。
+
