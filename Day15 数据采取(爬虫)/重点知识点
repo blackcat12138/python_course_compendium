@@ -1,0 +1,34 @@
+一、python爬虫的概述
+    1.网络爬虫概述
+        (a).爬虫(spider)：爬虫用于爬取数据,也称数据采集程序,爬取的数据源于网络,
+                     网络中的数据可以是由Web服务器、数据库服务器、索引库、大数据等提供。
+                     爬取的数据是公开的、非盈利的。
+        (b).使用python编写的爬取脚本(程序)可以完成定时、定量、指定目标(web站点)的数据爬取。
+            主要使用多(单)线程/进程、网络请求库、数据解析、数据存储、任务调度等相关技术。
+            python爬虫工程师,可以完成接口测试,功能性测试,性能测试和集成测试。
+        (c).爬虫与web后端服务间的关系,爬虫使用网络请求库,相当于客户端请求,web后端服务根据请求响应数据。
+            爬虫即向web服务器发起http请求,正确的接收响应数据,然后根据数据的类型(Content-Type)进行数据的解析及存储。
+            爬虫程序在发起请求前,需伪造浏览器(User-Agent指定请求头),然后再向服务器发起请求,响应200的成功率高。
+    2.python爬虫技术相关库
+            网络请求:
+                urllib
+                requests /urllib3
+                selenium(UI自动测试、动态js渲染)
+                appium(手机APP的爬虫或UI测试)
+            数据解析:
+                re、xpath、bs4、json
+            数据存储：
+                pymysql、mongodb、elasticsearch
+            多任务库：
+                多线程(threading)、线程队列(queue)
+                协程(asynio、gevent/eventlet)
+            爬虫框架：
+                scrapy、scrapy-redis分布式(多机爬虫)
+    3.常见的反爬策略
+        UA(User-Agent)策略
+        登录限制(Cookie)策略
+        请求频次(IP代理)策略
+        验证码(图片-云打码,文字或物件图片选择、滑块)
+        动态js(Selenium/Splash/api接口)策略
+
+
