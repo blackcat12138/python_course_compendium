@@ -8,10 +8,10 @@
         2.包含的表达式不能超过一个
 '''
 
-# 传入多个参数的lambda函数,通过lambda来实现
 from functools import reduce
 
 
+# 传入多个参数的lambda函数,通过lambda来实现
 def sum(x, y):
     return x + y
 
@@ -41,3 +41,6 @@ print(new_list_01)
 
 # lambda函数+reduce函数     reduce()：对参数序列中元素进行积累。
 print(reduce(lambda a, b: a + b, [23, 21, 45, 98]))
+
+# 实现1000的阶乘
+print(reduce(lambda x, y: x * y, range(1, 1001)))
