@@ -1,10 +1,11 @@
 '''
  函数的定义与调用
+    目的：函数的作用是增加代码的复用性,减少代码的冗余。
 
-    def 函数名(参数,参数......):
-        函数体
-    调用：
-        函数名(参数,参数......)
+        def 函数名(参数,参数......):
+            函数体
+        调用：
+            函数名(参数,参数......)
 '''
 import random
 
@@ -52,6 +53,6 @@ def login(username, password):
         print('账号锁定！')
 
 
-username = input('请输入用户名:')
-password = input('请输入密码:')
-login(username, password)
+user = input('请输入用户名:')
+pas = input('请输入密码:')
+login(user, pas)
