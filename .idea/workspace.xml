@@ -23,11 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3aae8be-41e6-4dd7-b6a8-9508759a2e33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day10 函数/funcation_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10 函数/Funcation_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day5 列表/ForechDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5 列表/ForechDemo_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day9 字符串与正则/StringDome01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9 字符串与正则/StringDome01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
