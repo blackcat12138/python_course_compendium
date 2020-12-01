@@ -66,29 +66,8 @@
       <recent name="E:\05_job src\python_course_compendium\Day9 字符串" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Funcation_01 (1)">
-    <configuration name="ForechDemo_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_course_compendium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5 列表" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5 列表/ForechDemo_02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Funcation_01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.FunctionDemo03">
+    <configuration name="Decorator_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10 函数/Funcation_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10 函数/Decorator_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Funcation_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Decorator_02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\05_job src\python_course_compendium\Day10 函数\Funcation_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10 函数/Decorator_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lambdas (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Decorator_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10 函数/Lambdas.py" />
+      <option name="SCRIPT_NAME" value="E:\05_job src\python_course_compendium\Day10 函数\Decorator_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringDome01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Funcation_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +138,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day9 字符串与正则" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day10 函数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day9 字符串与正则/StringDome01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10 函数/Funcation_04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FunctionDemo03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_course_compendium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day10 函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10 函数/FunctionDemo03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,20 +194,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ForechDemo_02" />
-      <item itemvalue="Python.Funcation_01 (1)" />
-      <item itemvalue="Python.Funcation_01" />
-      <item itemvalue="Python.Lambdas (1)" />
-      <item itemvalue="Python.StringDome01" />
       <item itemvalue="Python.sys_module" />
+      <item itemvalue="Python.Funcation_04" />
+      <item itemvalue="Python.Decorator_01" />
+      <item itemvalue="Python.Decorator_02" />
+      <item itemvalue="Python.Decorator_02 (1)" />
+      <item itemvalue="Python.FunctionDemo03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Funcation_01 (1)" />
-        <item itemvalue="Python.StringDome01" />
-        <item itemvalue="Python.ForechDemo_02" />
-        <item itemvalue="Python.Funcation_01" />
-        <item itemvalue="Python.Lambdas (1)" />
+        <item itemvalue="Python.FunctionDemo03" />
+        <item itemvalue="Python.Decorator_02 (1)" />
+        <item itemvalue="Python.Decorator_02" />
+        <item itemvalue="Python.Decorator_01" />
+        <item itemvalue="Python.Funcation_04" />
       </list>
     </recent_temporary>
   </component>
@@ -251,22 +251,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="1008" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1605497673407" />
-    <state width="1456" height="498" key="GridCell.Tab.0.bottom" timestamp="1606389660429">
+    <state width="1456" height="390" key="GridCell.Tab.0.bottom" timestamp="1606822265640">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="498" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606389660429" />
-    <state width="1456" height="498" key="GridCell.Tab.0.center" timestamp="1606389660428">
+    <state width="1456" height="390" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606822265640" />
+    <state width="1456" height="390" key="GridCell.Tab.0.center" timestamp="1606822265639">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="498" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606389660428" />
-    <state width="1456" height="498" key="GridCell.Tab.0.left" timestamp="1606389660428">
+    <state width="1456" height="390" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606822265639" />
+    <state width="1456" height="390" key="GridCell.Tab.0.left" timestamp="1606822265639">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="498" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606389660428" />
-    <state width="1456" height="498" key="GridCell.Tab.0.right" timestamp="1606389660428">
+    <state width="1456" height="390" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606822265639" />
+    <state width="1456" height="390" key="GridCell.Tab.0.right" timestamp="1606822265639">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1456" height="498" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606389660428" />
+    <state width="1456" height="390" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606822265639" />
     <state width="1456" height="269" key="GridCell.Tab.1.bottom" timestamp="1604743991120">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -287,10 +287,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="716" y="451" key="Registry/0.0.1536.864@0.0.1536.864" timestamp="1605491345028" />
-    <state x="540" y="127" width="996" height="709" key="SettingsEditor" timestamp="1606389694312">
+    <state x="540" y="127" width="996" height="709" key="SettingsEditor" timestamp="1606787267135">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="540" y="127" width="996" height="709" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606389694312" />
+    <state x="540" y="127" width="996" height="709" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606787267135" />
     <state x="506" y="180" width="600" height="536" key="find.popup" timestamp="1606286014727">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
