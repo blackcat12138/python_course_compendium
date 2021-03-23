@@ -48,6 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -66,8 +67,8 @@
       <recent name="E:\05_job src\python_course_compendium\Day9 字符串" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.object02">
-    <configuration name="object02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Polymor">
+    <configuration name="DictTestDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day12 面向对象编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day7 字典" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12 面向对象编程/object02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7 字典/DictTestDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="object08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NoneTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day12 面向对象编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day2 python语言基础" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12 面向对象编程/object08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2 python语言基础/NoneTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="object09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Polymor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12 面向对象编程/object09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12 面向对象编程/Polymor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="object10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="argparse_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day12 面向对象编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11 模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12 面向对象编程/object10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11 模块/argparse_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,19 +196,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.sys_module" />
-      <item itemvalue="Python.object08" />
-      <item itemvalue="Python.object09" />
-      <item itemvalue="Python.object10" />
       <item itemvalue="Python.object11" />
-      <item itemvalue="Python.object02" />
+      <item itemvalue="Python.DictTestDemo" />
+      <item itemvalue="Python.NoneTest" />
+      <item itemvalue="Python.argparse_module" />
+      <item itemvalue="Python.Polymor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.object02" />
+        <item itemvalue="Python.Polymor" />
         <item itemvalue="Python.object11" />
-        <item itemvalue="Python.object10" />
-        <item itemvalue="Python.object09" />
-        <item itemvalue="Python.object08" />
+        <item itemvalue="Python.argparse_module" />
+        <item itemvalue="Python.NoneTest" />
+        <item itemvalue="Python.DictTestDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -235,25 +236,37 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="387" y="140" key="#Inspections" timestamp="1616483395269">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="387" y="140" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1616483395269" />
     <state x="762" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615520564775">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="762" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1615520564775" />
-    <state width="1500" height="230" key="GridCell.Tab.0.bottom" timestamp="1615947672171">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1616403492162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1500" height="230" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615947672171" />
-    <state width="1500" height="230" key="GridCell.Tab.0.center" timestamp="1615947672171">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1616403492162" />
+    <state width="1500" height="208" key="GridCell.Tab.0.bottom" timestamp="1616482905944">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1500" height="230" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1615947672171" />
-    <state width="1500" height="230" key="GridCell.Tab.0.left" timestamp="1615947672171">
+    <state width="1500" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1616482905944" />
+    <state width="1500" height="208" key="GridCell.Tab.0.center" timestamp="1616482905944">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1500" height="230" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1615947672171" />
-    <state width="1500" height="230" key="GridCell.Tab.0.right" timestamp="1615947672171">
+    <state width="1500" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1616482905944" />
+    <state width="1500" height="208" key="GridCell.Tab.0.left" timestamp="1616482905944">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1500" height="230" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1615947672171" />
+    <state width="1500" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1616482905944" />
+    <state width="1500" height="208" key="GridCell.Tab.0.right" timestamp="1616482905944">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1500" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1616482905944" />
+    <state x="270" y="77" key="SettingsEditor" timestamp="1616483465003">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1616483465003" />
   </component>
 </project>
