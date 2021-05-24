@@ -49,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -67,7 +67,7 @@
       <recent name="E:\05_job src\python_course_compendium\Day9 字符串" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test2">
+  <component name="RunManager" selected="Python.python_01_aiohttp">
     <configuration name="Module_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="object10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_01_aiohttp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_course_compendium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day12 面向对象编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day17 综合练习与实战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12 面向对象编程/object10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day17 综合练习与实战/python_01_aiohttp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,18 +197,18 @@
     <list>
       <item itemvalue="Python.Module_01" />
       <item itemvalue="Python.datetime_module" />
-      <item itemvalue="Python.object10" />
+      <item itemvalue="Python.python_01_aiohttp" />
       <item itemvalue="Python.sys_module" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python_01_aiohttp" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.datetime_module" />
         <item itemvalue="Python.Module_01" />
-        <item itemvalue="Python.object10" />
       </list>
     </recent_temporary>
   </component>
@@ -248,25 +248,25 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1616403492162" />
-    <state width="1500" height="170" key="GridCell.Tab.0.bottom" timestamp="1616750952809">
+    <state width="1515" height="262" key="GridCell.Tab.0.bottom" timestamp="1617868156548">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1500" height="170" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1616750952809" />
-    <state width="1500" height="170" key="GridCell.Tab.0.center" timestamp="1616750952809">
+    <state width="1515" height="262" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1617868156548" />
+    <state width="1515" height="262" key="GridCell.Tab.0.center" timestamp="1617868156547">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1500" height="170" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1616750952809" />
-    <state width="1500" height="170" key="GridCell.Tab.0.left" timestamp="1616750952809">
+    <state width="1515" height="262" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1617868156547" />
+    <state width="1515" height="262" key="GridCell.Tab.0.left" timestamp="1617868156547">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1500" height="170" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1616750952809" />
-    <state width="1500" height="170" key="GridCell.Tab.0.right" timestamp="1616750952809">
+    <state width="1515" height="262" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1617868156547" />
+    <state width="1515" height="262" key="GridCell.Tab.0.right" timestamp="1617868156547">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1500" height="170" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1616750952809" />
-    <state x="270" y="77" key="SettingsEditor" timestamp="1616483465003">
+    <state width="1515" height="262" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1617868156547" />
+    <state x="270" y="77" key="SettingsEditor" timestamp="1617847732838">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1616483465003" />
+    <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1617847732838" />
   </component>
 </project>
